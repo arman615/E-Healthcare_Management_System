@@ -1,4 +1,5 @@
 EHealthcareManagementSystem README
+
 This is a simple healthcare management system implemented in C++ for managing patient and doctor records, recording medical history, and generating medical history reports. The system allows healthcare providers to register patients, record diagnoses, treatments, and medications, and generate medical history reports for patients.
 
 Features
